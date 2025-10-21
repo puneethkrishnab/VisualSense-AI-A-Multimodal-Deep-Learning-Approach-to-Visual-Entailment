@@ -23,4 +23,4 @@ This project demonstrates effective fusion of computer vision and natural langua
 1. Clone the repository:
 
 ###
-The data file is large to accecess the raw data contact me via mail (puneethkrishna.b@gmail.com)
+The data file is too large to share directly. Please email me to discuss access to the raw data (puneethkrishna.b@gmail.com)
