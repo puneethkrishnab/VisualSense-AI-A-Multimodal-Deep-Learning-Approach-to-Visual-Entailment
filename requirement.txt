@@ -1,0 +1,7 @@
+### Usage
+- Prepare the dataset by downloading and unzipping into the `data/` folder as per instructions.
+- Run preprocessing scripts (`scripts/data_preprocessing.py`) to tokenize text and process images.
+- Train the baseline CNN model with `scripts/baseline_model.py`.
+- Train and fine-tune the advanced multimodal model using `scripts/advanced_model.py`.
+- Generate predictions on test data via `scripts/prediction.py`.
+- Visualize results using included Jupyter notebooks in `notebooks/`.
